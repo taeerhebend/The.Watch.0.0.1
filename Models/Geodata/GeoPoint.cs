@@ -7,4 +7,6 @@ public class GeoPoint
 
     [JsonProperty(PropertyName = "longitude")]
     public double Longitude { get; set; }
+    
+    public Address? Address { get; set; }
 }

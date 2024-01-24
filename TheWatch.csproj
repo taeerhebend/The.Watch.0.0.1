@@ -133,7 +133,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Utils\" />
+	  <Folder Include="Models\UserData\Objects\" />
+	  <Folder Include="Models\UserData\_Events\" />
 	</ItemGroup>
 
 </Project>

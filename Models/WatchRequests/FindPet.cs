@@ -1,6 +1,6 @@
 ﻿namespace TheWatch.Models;
 
-public class CheckIn
+public class FindPet
 {
     
 }
