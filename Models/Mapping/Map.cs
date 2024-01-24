@@ -1,6 +1,6 @@
-﻿namespace TheWatch.Models;
+﻿namespace TheWatch.Models.Mapping;
 
 public class Map
 {
-    
+
 }

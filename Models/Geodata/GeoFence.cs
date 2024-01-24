@@ -1,4 +1,4 @@
-﻿namespace TheWatch.Models;
+﻿namespace TheWatch.Models.Geodata;
 
 
 public class GeoFence
@@ -10,7 +10,7 @@ public class GeoFence
     [JsonProperty(PropertyName = "_partitionKey")]
     public string PartitionKey { get { return Id; } }
 
-    [JsonProperty(PropertyName = "name")] 
+    [JsonProperty(PropertyName = "name")]
     public string Name { get; set; }
 
     [JsonProperty(PropertyName = "coordinates")]

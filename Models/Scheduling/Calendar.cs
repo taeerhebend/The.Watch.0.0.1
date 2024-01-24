@@ -1,4 +1,6 @@
-﻿namespace TheWatch.Models;
+﻿using TheWatch.Models.UserData.Information;
+
+namespace TheWatch.Models.Scheduling;
 
 public class Calendar
 {

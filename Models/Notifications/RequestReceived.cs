@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheWatch.Models.Tutorials
+namespace TheWatch.Models.Notifications
 {
-    internal class Tutorial
+    public class RequestReceived
     {
     }
 }

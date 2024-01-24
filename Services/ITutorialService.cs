@@ -1,4 +1,6 @@
-﻿namespace TheWatch.Services;
+﻿using TheWatch.Models.Tutorials;
+
+namespace TheWatch.Services;
 
 public interface ITutorialService
 {

@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace TheWatch
+namespace TheWatch.Platforms.MacCatalyst
 {
     public class Program
     {

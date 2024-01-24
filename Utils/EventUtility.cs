@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TheWatch.Utils
 {
-    internal class EventUtility
+    public class EventUtility
     {
     }
 }

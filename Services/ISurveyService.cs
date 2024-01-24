@@ -1,4 +1,6 @@
-﻿namespace TheWatch.Services;
+﻿using TheWatch.Models.Surveys;
+
+namespace TheWatch.Services;
 
 public interface ISurveyService
 {

@@ -1,6 +1,6 @@
-﻿namespace TheWatch.Models;
+﻿namespace TheWatch.Models.Surveys;
 
 public class SurveyQuestion
 {
-    
+
 }

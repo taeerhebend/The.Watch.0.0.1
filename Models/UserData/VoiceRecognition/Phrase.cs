@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheWatch.Models
+namespace TheWatch.Models.UserData.VoiceRecognition
 {
     public class Phrase
     {

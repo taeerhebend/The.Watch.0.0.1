@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace TheWatch.Models
+namespace TheWatch.Models.Mapping
 {
     public class Direction
     {

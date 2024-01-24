@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheWatch.Models
+namespace TheWatch.Models.UserData.Claims
 {
     public class Pet
     {
@@ -12,6 +12,6 @@ namespace TheWatch.Models
         public string Type { get; set; }
         public string Breed { get; set; }
         public string ImageUrl { get; set; }
-        
+
     }
 }

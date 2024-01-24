@@ -1,4 +1,6 @@
-﻿namespace TheWatch.Models;
+﻿using TheWatch.Models.Geodata;
+
+namespace TheWatch.Models;
 
 public class GeoPoint
 {

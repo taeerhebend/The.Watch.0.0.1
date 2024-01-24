@@ -133,6 +133,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Folder Include="Models\Scheduling\Camera\" />
+	  <Folder Include="Models\Scheduling\DesignatedResponder\" />
 	  <Folder Include="Models\UserData\Objects\" />
 	  <Folder Include="Models\UserData\_Events\" />
 	</ItemGroup>

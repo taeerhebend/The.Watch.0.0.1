@@ -1,4 +1,4 @@
-﻿namespace TheWatch.Models;
+﻿namespace TheWatch.Models.UserData.Information;
 
 public class Schedule
 {

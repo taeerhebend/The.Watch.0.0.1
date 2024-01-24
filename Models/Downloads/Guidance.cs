@@ -1,6 +1,6 @@
-﻿namespace TheWatch.Models;
+﻿namespace TheWatch.Models.Downloads;
 
 public class Guidance
 {
-    
+
 }
