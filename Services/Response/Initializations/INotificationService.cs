@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheWatch.Services
+namespace TheWatch.Services.Response.Initializations
 {
     public interface INotificationService
     {

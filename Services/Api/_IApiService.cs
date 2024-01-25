@@ -1,7 +1,7 @@
 ﻿using System.Text;
 // Interface for API Service: Provides methods for making HTTP requests (GET, POST etc.), crucial for server communication and data exchange.
 
-namespace TheWatch.Services;
+namespace TheWatch.Services.Api;
 
 /// <summary>
 /// Represents an API service that provides methods for making HTTP requests.
@@ -70,6 +70,6 @@ public class _ApiService : _IApiService
         // More error handling goes here
         return response.IsSuccessStatusCode;
     }
-    
+
 }
 

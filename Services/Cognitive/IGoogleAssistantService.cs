@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheWatch.Services
+namespace TheWatch.Services.Cognitive
 {
     internal interface IGoogleAssistantService
     {

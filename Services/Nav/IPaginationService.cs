@@ -1,4 +1,4 @@
-﻿namespace TheWatch.Services;
+﻿namespace TheWatch.Services.Nav;
 
 public interface IPaginationService
 {

@@ -1,6 +1,6 @@
-﻿namespace TheWatch.Services;
+﻿namespace TheWatch.Services.Response.Initializations;
 
 public class IWatchCallService
 {
-    
+
 }

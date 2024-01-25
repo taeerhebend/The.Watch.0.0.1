@@ -1,8 +1,8 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Maui.Hosting;
-using TheWatch.Services;
 using Microsoft.Extensions.Http;
+using TheWatch.Services.Api;
 
 namespace TheWatch
 {

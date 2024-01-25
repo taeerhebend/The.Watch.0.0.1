@@ -1,4 +1,4 @@
-﻿namespace TheWatch.Services;
+﻿namespace TheWatch.Services.DesignatedResponder;
 
 public interface IDesignatedResponderService
 {

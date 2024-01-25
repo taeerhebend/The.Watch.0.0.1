@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheWatch.Services
+namespace TheWatch.Services.Response.Activity
 {
     public interface ILiveStreamingService
     {
     }
-    
+
     public class LiveStreamingService : ILiveStreamingService
     {
     }

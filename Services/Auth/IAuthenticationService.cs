@@ -7,12 +7,12 @@ using System.Text;
 using System.Threading.Tasks;
 using TheWatch.Models.UserData;
 
-namespace TheWatch.Services
+namespace TheWatch.Services.Auth
 {
     /// <summary>
     /// Interface for authentication service.
     /// </summary>
-    public interface IAuthenticationService 
+    public interface IAuthenticationService
     {
         /// <summary>
         /// Signs in a user asynchronously.

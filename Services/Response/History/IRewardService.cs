@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TheWatch.Models.UserData.History;
 
-namespace TheWatch.Services
+namespace TheWatch.Services.Response.History
 {
     public interface IRewardService
     {

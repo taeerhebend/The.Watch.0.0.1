@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheWatch.Services
+namespace TheWatch.Services.LocalData
 {
     public interface IDataService
     {
@@ -21,7 +21,7 @@ namespace TheWatch.Services
 
     public class DataService : IDataService
     {
-        
+
     }
 
 }

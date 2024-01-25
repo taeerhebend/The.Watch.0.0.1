@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheWatch.Services
+namespace TheWatch.Services.Alerts
 {
     // Interface for Logging Service: Handles logging of various types of information (info, warnings, debug, errors) for debugging and monitoring purposes.
 

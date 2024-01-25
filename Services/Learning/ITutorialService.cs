@@ -1,6 +1,6 @@
 ﻿using TheWatch.Models.Tutorials;
 
-namespace TheWatch.Services;
+namespace TheWatch.Services.Learning;
 
 public interface ITutorialService
 {

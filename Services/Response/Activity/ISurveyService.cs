@@ -1,6 +1,6 @@
 ﻿using TheWatch.Models.Surveys;
 
-namespace TheWatch.Services;
+namespace TheWatch.Services.Response.Activity;
 
 public interface ISurveyService
 {

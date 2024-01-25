@@ -1,4 +1,4 @@
-﻿namespace TheWatch.Services;
+﻿namespace TheWatch.Services.Alerts;
 
 // Interface for Dialog Service: Provides functionality for showing alerts and notifications to the user.
 

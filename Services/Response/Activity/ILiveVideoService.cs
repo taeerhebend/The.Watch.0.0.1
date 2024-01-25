@@ -1,4 +1,4 @@
-﻿namespace TheWatch.Services;
+﻿namespace TheWatch.Services.Response.Activity;
 
 
 public interface ILiveVideoService
