@@ -1,4 +1,5 @@
 ﻿using System.Text;
+// Interface for API Service: Provides methods for making HTTP requests (GET, POST etc.), crucial for server communication and data exchange.
 
 namespace TheWatch.Services;
 

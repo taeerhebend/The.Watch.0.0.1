@@ -137,6 +137,7 @@
 	  <Folder Include="Models\Scheduling\DesignatedResponder\" />
 	  <Folder Include="Models\UserData\Objects\" />
 	  <Folder Include="Models\UserData\_Events\" />
+	  <Folder Include="Services\SMS\" />
 	</ItemGroup>
 
 </Project>

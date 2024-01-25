@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Interface for Authentication Service: Manages user authentication processes like sign-in, sign-out, registration, and password management.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

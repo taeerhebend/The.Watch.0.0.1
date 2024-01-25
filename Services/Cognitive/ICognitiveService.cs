@@ -1,4 +1,6 @@
-﻿using Microsoft.CognitiveServices.Speech.Audio;
+﻿// Interface for Cognitive Service: Offers features like speech-to-text, phrase detection, and sentiment analysis, leveraging Azure Cognitive Services.
+
+using Microsoft.CognitiveServices.Speech.Audio;
 
 namespace TheWatch.Services;
 using Microsoft.CognitiveServices.Speech;

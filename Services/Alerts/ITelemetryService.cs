@@ -1,4 +1,6 @@
-﻿namespace TheWatch.Services;
+﻿// Interface for Telemetry Service: Tracks events and logs exceptions, useful for analytics and diagnostic purposes.
+
+namespace TheWatch.Services;
 
 public interface ITelemetryService
 {

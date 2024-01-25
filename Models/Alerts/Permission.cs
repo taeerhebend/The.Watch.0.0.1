@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace TheWatch.Models.Alerts
 {
-    internal class Permission
+    /// <summary>
+    /// Represents a permission on ios or android
+    /// </summary>
+    public class Permission
     {
     }
 }

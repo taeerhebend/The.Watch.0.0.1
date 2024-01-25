@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TheWatch.Models.Alerts
 {
-    internal class PermissionAlerts
+    public class PermissionAlerts
     {
     }
 }

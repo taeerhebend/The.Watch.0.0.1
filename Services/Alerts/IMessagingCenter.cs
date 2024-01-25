@@ -1,4 +1,6 @@
-﻿namespace TheWatch.Services;
+﻿// Interface for Messaging Center: Manages sending and receiving messages across different components of the application, enhancing decoupled communication.
+
+namespace TheWatch.Services;
 
 public interface IMessagingCenter
 {
